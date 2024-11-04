@@ -39,9 +39,9 @@
 # 💫 About Me :
 Hi there! 👋
 
-I’m a Fullstack Developer and the CTO at Tessweb, with extensive experience in developing web applications 💻 and automating processes 🤖. <br><br>
-Over the years, I’ve mastered a broad range of technologies, both on the backend ⚙️ and frontend 🎨, which allows me to build scalable, efficient, and secure solutions 🔒 tailored to the needs of various clients. <br><br>
-As the technical lead 🚀 at Tessweb, I oversee project architecture 🏗️ and ensure seamless collaboration 🤝 within the development team. I’m passionate about staying on the cutting edge of tech 🛠️, continuously learning 📚, and applying best practices 💡 to deliver top-tier products.
+I'm a Fullstack Developer at Tessweb, with extensive experience in developing web applications 💻 and automating processes 🤖. <br><br>
+Over the years, I've mastered a broad range of technologies, both on the backend ⚙️ and frontend 🎨, which allows me to build scalable, efficient, and secure solutions 🔒 tailored to the needs of various clients. <br><br>
+I'm passionate about staying on the cutting edge of tech 🛠️, continuously learning 📚, and applying best practices 💡 to deliver top-tier products.
 
 ## Backend:<br>
   🐍 **Python** - Flask, FastAPI<br>
