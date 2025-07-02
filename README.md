@@ -1,57 +1,96 @@
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 👋 Романовский Алексей | Fullstack Developer
 
-# 💫 About Me :
-Hi there! 👋
+> **Middle Fullstack Developer** с 4+ годами коммерческого опыта  
+> Специализируюсь на создании высоконагруженных систем и современных веб-приложений
 
-I'm a Fullstack Developer at Tessweb, with extensive experience in developing web applications 💻 and automating processes 🤖. <br><br>
-Over the years, I've mastered a broad range of technologies, both on the backend ⚙️ and frontend 🎨, which allows me to build scalable, efficient, and secure solutions 🔒 tailored to the needs of various clients. <br><br>
-I'm passionate about staying on the cutting edge of tech 🛠️, continuously learning 📚, and applying best practices 💡 to deliver top-tier products.
+[![Telegram](https://img.shields.io/badge/Telegram-@AlekseyRomanovsky-blue?style=flat&logo=telegram)](https://t.me/AlekseyRomanovsky)
+[![Email](https://img.shields.io/badge/Email-aaromanovsky@ya.ru-red?style=flat&logo=gmail)](mailto:aaromanovsky@ya.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-RomAlx-black?style=flat&logo=github)](https://github.com/RomAlx)
 
-## Backend:<br>
-  🐍 **Python** - Flask, FastAPI<br>
-  🐘 **PHP** - Laravel, Symfony<br>
-  ⚡ **Node.js** - Nitro<br>
+---
 
-## Frontend:<br>
-  🖼️ Vue 3<br>
-  🌐 Nuxt 3<br>
+## 💻 Технический стек
 
-## Contact:<br>
-  📫 Telegram: [@AlekseyRomanovsky](https://t.me/AlekseyRomanovsky)<br>
-  💼 Reach my team: [@tessweb_manager](https://t.me/tessweb_manager)<br>
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Базы данных
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Инструменты
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🏢 Опыт работы
+
+### **Fullstack Developer** | VBI *(2023 - настоящее время)*
+- Переработал архитектуру аналитической системы — **ускорение в 180 раз**
+- Автоматизировал критические бизнес-процессы
+- Внедрил современные практики: Git Flow, CI/CD, мониторинг
+- **Стек:** Laravel, Vue.js 3, MySQL, Redis, Docker
+
+### **Co-Founder & Tech Lead** | TessWeb *(2022 - 2023)*
+- Запустил 2 коммерческих продукта с монетизацией
+- Получил экспертизу в Telegram Mini Apps и TON Blockchain
+- Развил навыки продуктового мышления
+- **Стек:** Vue.js, Node.js, PostgreSQL, TON API
+
+### **Junior Backend Developer** | AmoCRM *(2020 - 2022)*
+- Поддерживал высоконагруженный WhatsApp интеграционный сервис
+- Разработал e-commerce плагин от идеи до продакшена
+- Освоил микросервисную архитектуру в Enterprise
+- **Стек:** PHP, Laravel, MySQL, Redis, Kubernetes
+
+## 🎯 Ключевые проекты
+
+### 📊 **DayOff** — Аналитическая платформа
+Полная переработка legacy системы аналитики рекламных кампаний
+- **Результат:** Время отчетов сократилось с 2-3 часов до 1 минуты
+- **Особенности:** Real-time аналитика, интеграция с VK и Яндекс.Директ API
+- **Технологии:** Laravel, Vue.js 3, MySQL, Redis, Docker
+
+### 🎮 **Trendsy** — Геймифицированная платформа
+Telegram Mini App с интеграцией TON Blockchain
+- **Результат:** 500+ активных пользователей, конверсия 15%
+- **Особенности:** 10-уровневая система лиг, криптовыплаты
+- **Технологии:** Vue.js, Node.js, PostgreSQL, TON API
+
+## 🎓 Образование и развитие
+
+- **МГТУ им. Н.Э. Баумана** — Вакуумная и компрессорная техника
+- **AmoCRM** — Интенсивная стажировка по backend разработке
+- **Самообразование** — Постоянное изучение новых технологий и best practices
+
+## 🌟 Личные качества
+
+- **🎯 Результативность** — фокус на измеримых бизнес-результатах
+- **🧠 Системное мышление** — вижу продукт от пользователя до инфраструктуры
+- **🔄 Адаптивность** — работаю с современным стеком и legacy системами
+- **👥 Командная работа** — опыт менторинга и кросс-функциональных команд
+
+## 🌍 Контакты
+
+- 📱 **Telegram:** [@AlekseyRomanovsky](https://t.me/AlekseyRomanovsky)
+- 📧 **Email:** [aaromanovsky@ya.ru](mailto:aaromanovsky@ya.ru)
+- 📞 **Телефон:** +7 (996) 678-95-13
+- 💼 **GitHub:** [RomAlx](https://github.com/RomAlx)
+
+---
+
+### 💡 Статус: Открыт для новых возможностей
+**Формат работы:** Офис, удаленно, гибрид | **Локация:** Москва, релокация возможна
+
+> *"Создаю качественные технические решения, которые приносят измеримую пользу бизнесу"*
